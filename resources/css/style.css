@@ -1,0 +1,34 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+h2 {
+  font-style: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px
+}
+
+.note {
+  font-style: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.footnote {
+  color: Gray;
+  text-align: right;
+}
